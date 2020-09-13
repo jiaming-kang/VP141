@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduction}{1}% 
+\contentsline {section}{\numberline {2}Experimental Setup}{1}% 
+\contentsline {section}{\numberline {3}Measurements Procedure}{2}% 
+\contentsline {section}{\numberline {4}Results}{3}% 
+\contentsline {subsection}{\numberline {4.1}Distance}{3}% 
+\contentsline {subsection}{\numberline {4.2}Time}{3}% 
+\contentsline {subsection}{\numberline {4.3}Diameter of the Ball}{3}% 
+\contentsline {subsection}{\numberline {4.4}Inner Diameter of the Flask}{4}% 
+\contentsline {subsection}{\numberline {4.5}Other Physical Quantities}{4}% 
+\contentsline {subsection}{\numberline {4.6}Viscosity Coefficient}{5}% 
+\contentsline {section}{\numberline {5}Discussion}{5}% 
+\contentsline {section}{\numberline {6}Conclusion}{6}% 
+\contentsline {section}{\numberline {7}Reference}{6}% 
+\contentsline {section}{\numberline {A}Measurement Uncertainty Analysis}{7}% 
+\contentsline {subsection}{\numberline {A.1}Uncertainty of Distance Measurements}{7}% 
+\contentsline {subsection}{\numberline {A.2}Uncertainty of Time Measurements}{7}% 
+\contentsline {subsection}{\numberline {A.3}Uncertainty of Ball Diameter Measurements}{8}% 
+\contentsline {subsection}{\numberline {A.4}Uncertainty of Flask Inner Diameter Measurements}{8}% 
+\contentsline {subsection}{\numberline {A.5}Uncertainty of Other Physical Quantity Measurements}{8}% 
+\contentsline {subsection}{\numberline {A.6}Uncertainty of the Viscosity Coefficient}{9}% 
+\contentsline {section}{\numberline {B}Data Sheet}{9}% 
